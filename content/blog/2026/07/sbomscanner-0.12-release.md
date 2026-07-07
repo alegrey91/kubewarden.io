@@ -61,7 +61,7 @@ kind: NodeScanConfiguration
 metadata:
   name: default
 spec:
-  scanInterval: 5m
+  scanInterval: 24h
 ```
 
 That is really all it takes to get started. Apply it with `kubectl apply -f`
