@@ -5,12 +5,14 @@ authors:
 date: 2026-07-07
 ---
 
-We are thrilled to announce the release of SBOMscanner `v0.12.0`! With this
-version, SBOMscanner takes a big step forward in its mission to provide a
-complete, SBOM-based security picture of your Kubernetes clusters. The
-highlight of this release is the brand new **Node Scan** feature, which
-extends visibility from container images all the way down to the nodes that
-run them.
+We are thrilled to announce the release of SBOMscanner
+[`v0.12.0`](https://github.com/kubewarden/sbomscanner/releases/tag/v0.12.0)!
+With this version, SBOMscanner takes a big step forward in its mission to
+provide a complete, SBOM-based security picture of your Kubernetes clusters.
+The highlight of this release is the brand new
+[**Node Scan**](https://docs.kubewarden.io/sbom-scanner/0.12.0/en/user-guide/scanning-nodes.html)
+feature, which extends visibility from container images all the way down to
+the nodes that run them.
 
 ## Why scan nodes?
 
